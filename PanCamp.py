@@ -1,5 +1,8 @@
 import json
 
+with open ("archivo.json", "r") as openfile:
+    load = json.load(openfile)
+
 try:
     with open("reg_comprasVentas.json", "r") as openfile:
         registro = json.load(openfile)
@@ -42,6 +45,7 @@ if op == "1":
             "Precio del producto": proVendido
         }
     }
+
 
     registro.append(venta)
 
