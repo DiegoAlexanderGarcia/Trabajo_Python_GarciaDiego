@@ -20,5 +20,5 @@ Este proyecto es un sistema básico para gestionar registros de compras y ventas
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/ProyectoPanCamp.git
-   cd ProyectoPanCamp
+   git clone https://github.com/DiegoAlexanderGarcia/Trabajo_Python_GarciaDiego.git
+   cd rabajo_Python_GarciaDiego
